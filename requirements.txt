@@ -1,0 +1,6 @@
+opencv-python
+pillow
+requests
+websocket-client
+douyin-live-chat
+psutil
