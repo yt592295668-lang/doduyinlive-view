@@ -1,6 +1,7 @@
-opencv-python
-pillow
-requests
-websocket-client
-douyin-live-chat
 psutil
+opencv- Python
+opencv-python>=4.8.0
+Pillow>=10.0.0
+psutil>=5.9.0
+douyin-live-chat>=1.0.4
+betterproto>=2.0.0b6
