@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+douyin_crash.log
+*.csv
+debug_html.html
+.vscode/
+.idea/
